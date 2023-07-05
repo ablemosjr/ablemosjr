@@ -42,7 +42,7 @@
 
 <br/><br/>
           
-<img src="https://github.com/ablemosjr/ablemosjr/assets/89210954/1d7de2d6-7239-4c46-9d14-4e7fe1e696e1" width="250px" align="right" />
+<img src="https://github.com/ablemosjr/ablemosjr/assets/89210954/1d7de2d6-7239-4c46-9d14-4e7fe1e696e1" width="35%" align="right" />
 
 <h2 align="center">Let's connect</h2>
 
