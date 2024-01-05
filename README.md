@@ -52,7 +52,5 @@
 <a href="https://linkedin.com/in/ablemosjunior" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" width="20" /> LinkedIn</a>
 
 <a href="https://instagram.com/ablemosjr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram logo" width="20" /> Instagram</a>
-
-<a href="https://www.codewars.com/users/ablemosjr" target="_blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars logo" width="20" /> Codewars<a/>
  
 </div>
